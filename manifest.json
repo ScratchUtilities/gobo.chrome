@@ -2,5 +2,6 @@
     "name": "Gobocf",
     "version": "1.0",
     "description": "Shorten Scratch Links!",
-    "manifest_version": 2
+    "manifest_version": 2,
+    "default_popup": "popup.html"
 }
